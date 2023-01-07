@@ -19,4 +19,4 @@ FAU Course Assignments
   Basic Pattern Recognition Pipeline
 
 # Ex05 Eigenface
-  Face detection and recognitio by PCA and SVD
+  Face detection and recognition by PCA and SVD
